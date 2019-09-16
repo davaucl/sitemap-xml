@@ -6,11 +6,297 @@
     xmlns:coveo="https://www.coveo.com/schemas/metadata">
 <url>
 <loc>https://docs.coveo.com/en/1616/cloud-v2-administrators/add-or-edit-an-amazon-s3-source</loc>
-<lastmod>2015-02-10T13:47:23+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1.00</priority>
 <coveo:metadata>
-    <connectorname>amazon s3</connectorname>
+    <connectorname>Amazon S3</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1885/cloud-v2-administrators/add-or-edit-database-source</loc>
+<coveo:metadata>
+    <connectorname>Database</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1594/cloud-v2-administrators/add-or-edit-a-box-business-source</loc>
+<coveo:metadata>
+    <connectorname>Box</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1822/cloud-v2-administrators/add-or-edit-a-confluence-self-hosted-source</loc>
+<coveo:metadata>
+    <connectorname>Confluence</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1636/cloud-v2-administrators/add-or-edit-a-dropbox-business-source</loc>
+<coveo:metadata>
+    <connectorname>Dropbox</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1915/cloud-v2-administrators/edit-a-microsoft-dynamics-365-source</loc>
+<coveo:metadata>
+    <connectorname>Dynamics 365</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/2026/cloud-v2-administrators/add-or-edit-an-exchange-enterprise-source</loc>
+<coveo:metadata>
+    <connectorname>Exchange</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1766/cloud-v2-administrators/add-or-edit-a-file-system-source</loc>
+<coveo:metadata>
+    <connectorname>File</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1896/cloud-v2-administrators/add-or-edit-a-generic-rest-api-source</loc>
+<coveo:metadata>
+    <connectorname>Generic REST API</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1588/cloud-v2-administrators/add-or-edit-a-gmail-for-work-source</loc>
+<coveo:metadata>
+    <connectorname>Gmail</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1531/cloud-v2-administrators/add-or-edit-a-google-drive-for-work-source</loc>
+<coveo:metadata>
+    <connectorname>Google Drive</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1772/cloud-v2-administrators/add-or-edit-a-jira-software-self-hosted-source</loc>
+<coveo:metadata>
+    <connectorname>Jira</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1883/cloud-v2-administrators/add-or-edit-a-jive-server-source</loc>
+<coveo:metadata>
+    <connectorname>Jive</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1691/cloud-v2-administrators/add-or-edit-a-lithium-source</loc>
+<coveo:metadata>
+    <connectorname>Lithium</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1566/cloud-v2-administrators/add-or-edit-a-onedrive-for-business-source</loc>
+<coveo:metadata>
+    <connectorname>OneDrive for Business</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/2914/cloud-v2-administrators/add-or-edit-an-opentext-content-server-source</loc>
+<coveo:metadata>
+    <connectorname>OpenText Content Server</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1647/cloud-v2-administrators/add-or-edit-an-rss-source</loc>
+<coveo:metadata>
+    <connectorname>RSS Feeds</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/2012/cloud-v2-administrators/add-or-edit-a-salesforce-source</loc>
+<coveo:metadata>
+    <connectorname>Salesforce</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/2707/cloud-v2-administrators/add-or-edit-a-servicenow-source</loc>
+<coveo:metadata>
+    <connectorname>Service Now</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1739/cloud-v2-administrators/add-or-edit-a-sharepoint-online-source</loc>
+<coveo:metadata>
+    <connectorname>SharePoint Online</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1579/cloud-v2-administrators/add-or-edit-a-sitecore-source</loc>
+<coveo:metadata>
+    <connectorname>Sitecore</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1967/cloud-v2-administrators/add-or-edit-a-sitemap-source</loc>
+<coveo:metadata>
+    <connectorname>Sitemap</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1572/cloud-v2-administrators/add-or-edit-a-twitter-source</loc>
+<coveo:metadata>
+    <connectorname>Twitter</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/2055/cloud-v2-administrators/add-or-edit-a-web-source</loc>
+<coveo:metadata>
+    <connectorname>Web source</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1637/cloud-v2-administrators/add-or-edit-a-youtube-source</loc>
+<coveo:metadata>
+    <connectorname>Youtube</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Zendesk</connectorname>
+    <levelofconnection>Coveo Connector</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Adobe Experience Manager</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Azure DevOps</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Documentum</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>LinkedIn</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Microsoft Streams</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>MindTouch</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>OpenText Content Platform Cloud</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Slack</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Office 365 Groups (Shared mailboxes)</connectorname>
+    <levelofconnection>Go-Away Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Azure Blob</connectorname>
+    <levelofconnection>Go-Away Sources</levelofconnection>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<coveo:metadata>
+    <connectorname>Pega</connectorname>
+    <levelofconnection>Go-Away Sources</levelofconnection>
     <tags />
 </coveo:metadata>
 </url>
