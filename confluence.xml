@@ -464,7 +464,7 @@
     <levelofconnection>Indexable Sources</levelofconnection>
     <indexablewith>REST API Connectror</indexablewith>
     <logo>https://vimeo.com/</logo>
-    <investigationmaturity>R&D Unmaintained REST Connector Config</investigationmaturity>
+    <investigationmaturity>RD Unmaintained REST Connector Config</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -475,7 +475,7 @@
     <levelofconnection>Indexable Sources</levelofconnection>
     <indexablewith>REST API Connector</indexablewith>
     <logo>https://aws.amazon.com/dynamodb/</logo>
-    <investigationmaturity>R&D Unmaintained REST Connector Config</investigationmaturity>
+    <investigationmaturity>RD Unmaintained REST Connector Config</investigationmaturity>
     
     <tags />
 </coveo:metadata>
@@ -487,7 +487,7 @@
     <levelofconnection>Indexable Sources</levelofconnection>
     <indexablewith>REST API Connector</indexablewith>
     <logo>https://www.discourse.org/</logo>
-    <investigationmaturity>R&D Unmaintained REST Connector Config</investigationmaturity>
+    <investigationmaturity>RD Unmaintained REST Connector Config</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
