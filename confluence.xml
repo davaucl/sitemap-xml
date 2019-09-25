@@ -9,6 +9,9 @@
 <coveo:metadata>
     <connectorname>Amazon S3</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://aws.amazon.com/</logo>
+    <additionnalinformation></additionnalinformation>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -17,6 +20,8 @@
 <coveo:metadata>
     <connectorname>Database</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <additionnalinformation></additionnalinformation>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -25,6 +30,8 @@
 <coveo:metadata>
     <connectorname>Box</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.box.com/home</logo>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -33,6 +40,8 @@
 <coveo:metadata>
     <connectorname>Confluence</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.atlassian.com/software/confluence</logo>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -41,6 +50,8 @@
 <coveo:metadata>
     <connectorname>Dropbox</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.dropbox.com/</logo>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -49,6 +60,8 @@
 <coveo:metadata>
     <connectorname>Dynamics 365</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://dynamics.microsoft.com/en-ca/</logo>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -57,6 +70,8 @@
 <coveo:metadata>
     <connectorname>Exchange</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.office.com/?omkt=en-ca</logo>
+    <investigationmaturity>Minimal</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -65,6 +80,7 @@
 <coveo:metadata>
     <connectorname>File</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -73,6 +89,7 @@
 <coveo:metadata>
     <connectorname>Generic REST API</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -81,6 +98,8 @@
 <coveo:metadata>
     <connectorname>Gmail</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.google.com/gmail/about/#</logo>
+    <investigationmaturity>Minimal</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -89,6 +108,8 @@
 <coveo:metadata>
     <connectorname>Google Drive</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.google.com/drive/</logo>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -97,6 +118,8 @@
 <coveo:metadata>
     <connectorname>Jira</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.atlassian.com/software/jira</logo>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -105,6 +128,8 @@
 <coveo:metadata>
     <connectorname>Jive</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.jivesoftware.com/</logo>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -113,6 +138,8 @@
 <coveo:metadata>
     <connectorname>Lithium</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://khoros.com/</logo>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -121,6 +148,8 @@
 <coveo:metadata>
     <connectorname>OneDrive for Business</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://onedrive.live.com/about/en-ca/</logo>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -129,6 +158,8 @@
 <coveo:metadata>
     <connectorname>OpenText Content Server</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.opentext.com/</logo>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -137,6 +168,7 @@
 <coveo:metadata>
     <connectorname>RSS Feeds</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -145,6 +177,8 @@
 <coveo:metadata>
     <connectorname>Salesforce</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.salesforce.com/ca/</logo>
+    <investigationmaturity>High</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -153,6 +187,8 @@
 <coveo:metadata>
     <connectorname>Service Now</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.servicenow.com/</logo>
+    <investigationmaturity>High</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -161,6 +197,8 @@
 <coveo:metadata>
     <connectorname>SharePoint Online</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://products.office.com/en-us/sharepoint/collaboration</logo>
+    <investigationmaturity>High</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -169,6 +207,8 @@
 <coveo:metadata>
     <connectorname>Sitecore</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.sitecore.com/</logo>
+    <investigationmaturity>High</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -177,6 +217,7 @@
 <coveo:metadata>
     <connectorname>Sitemap</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <investigationmaturity>High</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -185,6 +226,8 @@
 <coveo:metadata>
     <connectorname>Twitter</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://twitter.com/</logo>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -193,6 +236,7 @@
 <coveo:metadata>
     <connectorname>Web source</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <investigationmaturity>High</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -201,6 +245,8 @@
 <coveo:metadata>
     <connectorname>Youtube</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.youtube.com/</logo>
+    <investigationmaturity>Medium</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
@@ -209,94 +255,272 @@
 <coveo:metadata>
     <connectorname>Zendesk</connectorname>
     <levelofconnection>Coveo Connector</levelofconnection>
+    <logo>https://www.zendesk.com/</logo>
+    <investigationmaturity>Low</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/781778945/Adobe+Experience+Manager+AEM+Connectivity</loc>
 <coveo:metadata>
     <connectorname>Adobe Experience Manager</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>Sitemap</indexablewith>
+
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/756449642/Azure+DevOps+Connectivity</loc>
 <coveo:metadata>
     <connectorname>Azure DevOps</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://azure.microsoft.com/en-ca/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/760677379/Documentum+Connectivity</loc>
 <coveo:metadata>
     <connectorname>Documentum</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://documentum.opentext.com/</logo>
+    <investigationmaturity>Documentation Review</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/755007632/LinkedIn+Connectivity</loc>
 <coveo:metadata>
     <connectorname>LinkedIn</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://www.linkedin.com/</logo>
+    <investigationmaturity>Documentation Review</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/755434074/Microsoft+Streams+Connectivity</loc>
 <coveo:metadata>
     <connectorname>Microsoft Streams</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://www.microsoft.com/en-ca</logo>
+    <investigationmaturity>Documentation Review</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/773554360/MindTouch+Connectivity</loc>
 <coveo:metadata>
     <connectorname>MindTouch</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://mindtouch.com/</logo>
+    <investigationmaturity>Documentation Review</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/776798245/OpenText+Content+Platform+Cloud+Connectivity</loc>
 <coveo:metadata>
     <connectorname>OpenText Content Platform Cloud</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://www.opentext.com/</logo>
+    <investigationmaturity>Documentation Review</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/781353220/Slack+Connectivity</loc>
 <coveo:metadata>
     <connectorname>Slack</connectorname>
     <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://slack.com/intl/en-ca/</logo>
+    <investigationmaturity>CES 7 connector that won't be ported</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/706576502/How+to+index+Mindtickle</loc>
 <coveo:metadata>
-    <connectorname>Office 365 Groups (Shared mailboxes)</connectorname>
-    <levelofconnection>Go-Away Sources</levelofconnection>
+    <connectorname>Mindtickle</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://www.mindtickle.com/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
 <url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/315490335/How+to+index+Docebo+LMS+with+Generic+Rest+Connector</loc>
+<coveo:metadata>
+    <connectorname>Docebo LMS</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://www.docebo.com/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/671614426/How+to+index+Skilljar+LMS</loc>
+<coveo:metadata>
+    <connectorname>Skilljar LMS</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://www.skilljar.com/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/659490460/How-to+index+stackoverflow+using+Generic+REST+Connector</loc>
+<coveo:metadata>
+    <connectorname>Stackoverflow</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://stackoverflow.com/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/560824465/How+to+index+a+Learndot+REST+API+source</loc>
+<coveo:metadata>
+    <connectorname>Learndot LMS</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://www.learndot.com/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/466223203/How-to+index+an+inSided+Community</loc>
+<coveo:metadata>
+    <connectorname>InSided Community</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>Web</indexablewith>
+    <logo>https://www.insided.com/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/388661265/How+to+index+items+from+VSTS+using+the+Generic+REST+API</loc>
+<coveo:metadata>
+    <connectorname>Visual Studio Team Services</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://marketplace.visualstudio.com/items?itemName=ms-vsts.vss-services-teams</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PS/pages/197558303/Sitemap+connector+to+index+secured+content+from+PeopleSoft+using+form+authentication</loc>
+<coveo:metadata>
+    <connectorname>PeopleSoft</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>Sitemap</indexablewith>
+    <logo>https://www.oracle.com/ca-en/applications/peoplesoft/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://connect.coveo.com/s/article/2549</loc>
+<coveo:metadata>
+    <connectorname>MadCap Flare</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>Sitemap</indexablewith>
+    <logo>https://www.madcapsoftware.com/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://psiows.azurewebsites.net/Dell%20Online/Configuration/CoveoCloudPlatform/sources/DellInquira.html</loc>
+<coveo:metadata>
+    <connectorname>Oracle Inquira</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>File Connector (Crawling Module)</indexablewith>
+    <logo>https://www.oracle.com/corporate/acquisitions/inquira/</logo>
+    <investigationmaturity>Professional service implementation</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/CT/pages/49905764/Generic+REST+URL+Data+Source+Connector#GenericREST/URLDataSourceConnector-Samples</loc>
+<coveo:metadata>
+    <connectorname>Vimeo</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connectror</indexablewith>
+    <logo>https://vimeo.com/</logo>
+    <investigationmaturity>R&D Unmaintained REST Connector Config</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/CT/pages/49905764/Generic+REST+URL+Data+Source+Connector#GenericREST/URLDataSourceConnector-Samples</loc>
+<coveo:metadata>
+    <connectorname>AWS DynamoDB</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connector</indexablewith>
+    <logo>https://aws.amazon.com/dynamodb/</logo>
+    <investigationmaturity>R&D Unmaintained REST Connector Config</investigationmaturity>
+    
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/CT/pages/49905764/Generic+REST+URL+Data+Source+Connector#GenericREST/URLDataSourceConnector-Samples</loc>
+<coveo:metadata>
+    <connectorname>Discourse</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connector</indexablewith>
+    <logo>https://www.discourse.org/</logo>
+    <investigationmaturity>R&D Unmaintained REST Connector Config</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/784007473/Pega+Platform+Connectivity</loc>
+<coveo:metadata>
+    <connectorname>Pega Platform</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <indexablewith>REST API Connector</indexablewith>
+    <logo>https://www.pega.com/</logo>
+    <investigationmaturity>Documentation review</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://coveord.atlassian.net/wiki/spaces/PRODUCT/pages/784597358/Redshift+Connectivity</loc>
+<coveo:metadata>
+    <connectorname>AWS Redshift</connectorname>
+    <levelofconnection>Indexable Sources</levelofconnection>
+    <logo>https://aws.amazon.com/redshift/</logo>
+    <indexablewith>Investigation in progress</indexablewith>
+    <investigationmaturity>Investigation in progress</investigationmaturity>
+    <tags />
+</coveo:metadata>
+</url>
+<url>
+<loc>https://discuss.coveo.com/t/do-we-support-azure-blob-store/2605/6</loc>
 <coveo:metadata>
     <connectorname>Azure Blob</connectorname>
-    <levelofconnection>Go-Away Sources</levelofconnection>
-    <tags />
-</coveo:metadata>
-</url>
-<url>
-<loc>https://docs.coveo.com/en/1880/cloud-v2-administrators/add-or-edit-a-zendesk-source</loc>
-<coveo:metadata>
-    <connectorname>Pega</connectorname>
-    <levelofconnection>Go-Away Sources</levelofconnection>
+    <levelofconnection>Restricted Sources</levelofconnection>
+    <indexablewith>Nothing, Authentication and crawling would be possible using the REST API connector using Shared Access Signatures and their REST API. Unfortunately, it won't work since (as of now) their API can only return XML.</indexablewith>
+    <logo>https://azure.microsoft.com/en-ca/services/storage/blobs/</logo>
+    <investigationmaturity>None</investigationmaturity>
     <tags />
 </coveo:metadata>
 </url>
